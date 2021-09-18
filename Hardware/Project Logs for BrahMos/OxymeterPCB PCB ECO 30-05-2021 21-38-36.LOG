@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=ESP8266_RXD Pin=J2-1
+Removed Pin From Net: NetName=ESP8266_TXD Pin=J2-2
+Change Component Footprint: Designator=J2 Old Footprint=P2.541X2HDR New Footprint=P2.541X4HDR
+Change Component Comment : Designator=J2 Old Comment=PEC02SAAN New Comment=1x4HDR
+Change component parameters: Designator = "J2" ("J2"); Footprint = "P2.541X2HDR"; UniqueID = "\MGWVIKIT" ("\MGWVIKIT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PEC04SAAN/859157"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maanufacturer"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "PEC04SAAN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.27"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "S1012E-04-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESP8266_TXD Pin=J2-1
+Added Pin To Net: NetName=ESP8266_RXD Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=+3V3 Pin=J2-4
+Added Room: Name=BrahMos_ESP8266

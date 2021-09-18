@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=+3V3 Pin=U1-2
+Removed Pin From Net: NetName=OLED_SCL Pin=U1-3
+Removed Pin From Net: NetName=OLED_SDA Pin=U1-4
+Removed Member From Class: ClassName=BrahMos_ESP8266 Member=U1
+Added Component: Designator=J5(P2.541X4HDR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PEC04SAAN/859157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maanufacturer"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "PEC04SAAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MinTemp"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = "S1012E-04-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=+3V3 Pin=J5-2
+Added Pin To Net: NetName=OLED_SCL Pin=J5-3
+Added Pin To Net: NetName=OLED_SDA Pin=J5-4
+Added Member To Class: ClassName=BrahMos_ESP8266 Member=Component J5 1x4HDR
+Added Room: Name=BrahMos_ESP8266

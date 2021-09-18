@@ -1,0 +1,5 @@
+Added Component: Designator=U1(128x32 OLED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.amazon.in/xcluma-Display-SSD1306-Driver-Module/dp/B07966FNMN"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BrahMos_ESP8266 Member=Component U1 I2C_OLED
+Added Room: Name=BrahMos_ESP8266

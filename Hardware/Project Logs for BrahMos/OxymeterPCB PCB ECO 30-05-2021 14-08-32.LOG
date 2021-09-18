@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C3 Old Footprint=Capacitor_0805 New Footprint=CAPACITOR_0402
+Change Component Comment : Designator=C3 Old Comment=100nF(50V) New Comment=0.1uF(25V )
+Change component parameters: Designator = "C3" ("C3"); Footprint = "Capacitor_0805"; UniqueID = "\QOJJWRSS" ("\QOJJWRSS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SupplierURL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71E104KE14J/4905174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPartNumber"; Value = "GRM155R71E104KE14J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxTemp"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinTemp"; Value = "-55°C "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartStatus"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPartNumber"; Value = "490-14603-1-ND"; VariantName = "[No Variations]"
+Added Room: Name=BrahMos_ESP8266

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=GND Pin=J4-4
+Added Component: Designator=MH1(2mm mounting Hole)
+Added Component: Designator=MH2(2mm mounting Hole)
+Added Component: Designator=MH3(2mm mounting Hole)
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Member To Class: ClassName=BrahMos_ESP8266 Member=Component MH1 Mounting Hole
+Added Member To Class: ClassName=BrahMos_ESP8266 Member=Component MH2 Mounting Hole
+Added Member To Class: ClassName=BrahMos_ESP8266 Member=Component MH3 Mounting Hole
+Added Room: Name=BrahMos_ESP8266

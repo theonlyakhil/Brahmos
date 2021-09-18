@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=VBAT Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=VBAT Pin=C17-2
+Removed Member From Class: ClassName=BrahMos_ESP8266 Member=C16
+Removed Member From Class: ClassName=BrahMos_ESP8266 Member=C17
+Added Room: Name=BrahMos_ESP8266
